@@ -3,7 +3,7 @@
 * Ellen Nickles ellen.nickles@nyu.edu
 * Time: Tuesday 9:30AM - 12PM EST
 * Location: Room 408
-* [Homework Wiki](https://github.com/ITPNYU/ICM-2023-Code/wiki/Homework-Ellen)
+* [Homework Wiki](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-Ellen)
 * [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)
 
 ## Dates
