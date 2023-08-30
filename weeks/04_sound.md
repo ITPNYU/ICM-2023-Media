@@ -5,9 +5,7 @@
 * [Why repeating words sound like music to your brain](https://www.theverge.com/2018/6/8/17443170/repeating-words-sound-to-song-auditory-illusion)
 * [Do-A-Deer](https://www.youtube.com/watch?v=drnBMAEA3AM)
 * [How to write a melody.](https://www.edmprod.com/ultimate-melody-guide/)
-* [Ben Folds Composes Song LIVE for Orchestra in 10 minutes](https://www.youtube.com/watch?v=BytUY_AwTUs)
 * [The Science of Pop Music](https://www.dailymotion.com/video/x6fsdpg) | [Transcript](https://subsaga.com/bbc/documentaries/music/2017/the-secret-science-of-pop.html)
-* [Measuring the Evolution of Contemporary Western Popular Music](https://www.nature.com/articles/srep00521): Abstract and Introduction
 
 ### Reference
 * [Solfege Tutorial](https://www.jonbjorkmusic.com/tutorials) | [Video](https://www.youtube.com/watch?v=mEopSLv5oas)
