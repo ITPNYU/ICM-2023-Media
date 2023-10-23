@@ -7,6 +7,7 @@ To what extent can we deconstruct language and put it back together again?
 
 ### Readings
 * [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017)
+* [What is a Transformer? More Technical Version of Above](https://medium.com/@b.terryjack/deep-learning-the-transformer-9ae5e9c5a190)
 
 ### Tutorials
 * [JavaScript String Object](https://www.youtube.com/watch?v=DcoAjEZYies&list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX&index=5)

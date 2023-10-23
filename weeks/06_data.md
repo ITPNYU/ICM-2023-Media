@@ -7,15 +7,17 @@
 * Does the past predict the future?
 * Even as coders, to what extent are we able to be the authors of how we use data to understand and shape the world?
 
-### Visions of Present and Future
-* [Side-by-side Images Expose a Glitch in Google’s Maps](https://qz.com/982709/google-maps-is-making-entire-communities-invisible-the-consequences-are-worrying/)
-* [Human Contact is Now a Luxury Good](https://www.nytimes.com/2019/03/23/sunday-review/human-contact-luxury-screens.html)
-* [What does your credit card company know about you?](https://www.nytimes.com/2009/05/17/magazine/17credit-t.html)
-* [Climate Chaos is Coming](https://www.nytimes.com/interactive/2019/04/10/magazine/climate-change-pinkertons.html)
+#### [Get free New York Times and Wall Street Journal Accounts with NYU email](https://guides.nyu.edu/currentnews)
 
 ### More to consider...
+#### Knowing your user...
+   * [The TikTok Algorithm ca. 2021](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html)
+   * [What does your credit card company know about you?](https://www.nytimes.com/2009/05/17/magazine/17credit-t.html)
+
 #### Responsibility and Bias
-   * [Is Facebook a platform or a publisher? Why does it matter?](https://www.theguardian.com/technology/2018/jul/02/facebook-mark-zuckerberg-platform-publisher-lawsuit)
+   * [Side-by-side Images Expose a Glitch in Google’s Maps](https://qz.com/982709/google-maps-is-making-entire-communities-invisible-the-consequences-are-worrying/)
+   * [WSJ: The Facebook Files](https://www.wsj.com/articles/the-facebook-files-11631713039)
+      * [Facebook Rewards Outrage...](https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215?mod=article_inline)
    * [The End of Theory](https://www.wired.com/2008/06/pb-theory/)
    * [The Numbers Don't Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo) by Catherine D'Ignazio and Lauren Klein
    * [Predicting Recidivism in Crime](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/) by Sam Corbett-Davies, Emma Pierson, Avi Feller and, Sharad Goel (Washington Post)
