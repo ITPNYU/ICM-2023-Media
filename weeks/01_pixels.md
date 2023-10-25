@@ -11,17 +11,17 @@ Why are we interested in computing media?
 ### Question
 What can we express through algorithms?
 
-### Video Tutorials
+### Video Tutorials | [Pixels Track](https://thecodingtrain.com/tracks/pixels)
 #### Basics
-* [11.1: Live Video and createCapture()](https://youtu.be/bkGf4fEHKak?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
-* [11.3: The Pixel Array](https://youtu.be/nMUMZ5YRxHI?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
+* [11.1: Live Video and createCapture()](https://thecodingtrain.com/tracks/pixels/pixels/createCapture)
+* [11.3: The Pixel Array](https://thecodingtrain.com/tracks/pixels/more-p5/pixel-array)
 #### Ways to play with pixels
-* [11.4: Brightness Mirror](https://youtu.be/rNqaw8LT2ZU?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
-* [11.5: Checkbox Mirror](https://youtu.be/m1G6WBvrOBE?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
-* [11.6: Painting with Pixels](https://youtu.be/0V3uYA1hafk?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
+* [11.4: Brightness Mirror](https://thecodingtrain.com/tracks/pixels/pixels/brightness-mirror)
+* [11.5: Checkbox Mirror](https://thecodingtrain.com/tracks/pixels/pixels/checkbox-mirror)
+* [11.6: Painting with Pixels](https://thecodingtrain.com/tracks/pixels/pixels/painting-with-pixels)
 * [11.8: Video Effects with Seriously.js](https://youtu.be/jdKep6jo7b0?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
 #### Fun way to animate
-* [11.2: Video Photobooth / Muybridge Style Animation](https://youtu.be/oLiaUEKsRws?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
+* [11.2: Video Photobooth / Muybridge Style Animation](https://thecodingtrain.com/tracks/pixels/pixels/video-photobooth)
 #### Mixing video
 * [p5VideoKit - a dashboard for mixing video in the browser](https://github.com/jht1493/p5VideoKit)
 
