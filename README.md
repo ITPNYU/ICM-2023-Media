@@ -15,26 +15,31 @@ The following is an overview of how we will be spending class time over the next
 - 7 -- Final Project Presentations
 
 ## Section Info
-* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-MimiY-01)
-* 02 [John-Henry](sections/02_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-John-Henry-02)
-* 03 [Ellen](sections/03_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-Ellen)
-* 04 [Shiffman](sections/04_Shiffman.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-Shiffman-04)
-* 05 [Sam](sections/05_Sam.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-Sam-05)
-* 06 [Mimi](sections/06_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-MimiY-06)
-* 07 [Shiffman](sections/07_Shiffman.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-Shiffman-07)
+
+- 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-MimiY-01)
+- 02 [John-Henry](sections/02_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-John-Henry-02)
+- 03 [Ellen](sections/03_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-Ellen)
+- 04 [Shiffman](sections/04_Shiffman.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-Dan-%E2%80%90-Thursday)
+- 05 [Sam](sections/05_Sam.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-Sam-05)
+- 06 [Mimi](sections/06_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-MimiY-06)
+- 07 [Shiffman](sections/07_Shiffman.md) | [Homework](https://github.com/ITPNYU/ICM-2023-Media/wiki/Homework-Shiffman-07)
 
 ## Questions and Discussion
+
 - Find us on Discord under Help >> icm
 
 ## p5.js
-- The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  We will start coding with the [web editor for p5.js](https://editor.p5js.org/).
+
+- The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding. We will start coding with the [web editor for p5.js](https://editor.p5js.org/).
 
 ## Extra Help
+
 - [Research Resident Office Hours](https://itp.nyu.edu/help/office-hours/)
 - ICM Help Sessions: TBD
 - [Coding Lab](https://codinglab.itp.io/) for drop-in help
 
 ## Inspiration
+
 - [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2023-Code/wiki/Inspiration)
 
 # Policies
@@ -42,9 +47,10 @@ The following is an overview of how we will be spending class time over the next
 ## Evaluation
 
 Grades will be determined according to the following breakdown:
-* Regular Assignments 40%
-* Participation and Attendance 50%
-* Final Project Presentation 10%
+
+- Regular Assignments 40%
+- Participation and Attendance 50%
+- Final Project Presentation 10%
 
 We will have weekly assignments that are relevant to material from the previous class. These assignments are required and you should be prepared to show/talk about them in class. It is expected that everyone in the class will create and maintain a blog for their assignments.
 
@@ -73,14 +79,13 @@ Collaboration is highly valued and often necessary to produce great work. Studen
 [Link to the Tisch Student Handbook](https://tisch.nyu.edu/student-affairs/important-resources/tisch-policies-and-handbooks)
 [Link to Suggested Practices for Syllabus Accessibility Statements](https://docs.google.com/document/d/1RgmYE1-OQYBfMsArLuN6VJa1rIKMVMLE/edit#)
 
-
 ## Statement of Principle
 
-The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members.  It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice.  Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards.  For all the details on plagiarism, please refer to page 10 of the [Tisch School of the Arts, Policies and Procedures Handbook](http://students.tisch.nyu.edu/page/home.html).
+The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members. It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice. Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards. For all the details on plagiarism, please refer to page 10 of the [Tisch School of the Arts, Policies and Procedures Handbook](http://students.tisch.nyu.edu/page/home.html).
 
 ## Statement on Accessibility
 
-It’s crucial for our community to create and uphold learning environments that empower students of all abilities. We are committed to create an environment that enables open dialogue about the various temporary and long term needs of students and participants for their academic success. We encourage all students and participants to discuss with faculty and staff possible accommodations that would best support their learning.  Students may also contact the Moses Center for Student Accessibility (212-998-4980) for resources and support.  
+It’s crucial for our community to create and uphold learning environments that empower students of all abilities. We are committed to create an environment that enables open dialogue about the various temporary and long term needs of students and participants for their academic success. We encourage all students and participants to discuss with faculty and staff possible accommodations that would best support their learning. Students may also contact the Moses Center for Student Accessibility (212-998-4980) for resources and support.
 
 [Link to the Moses Center for Student Accessibility](https://www.nyu.edu/students/communities-and-groups/student-accessibility.html)
 
@@ -92,10 +97,10 @@ Your health and safety are a priority at NYU. Emphasizing the importance of the 
 
 ## Statement on use of Electronic Devices
 
-Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations.  Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
+Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations. Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
 
-Mantras By James
-----------------
+## Mantras By James
+
 - "Practice is the best of all instructors." - computation requires practice
 - "An agreeable companion on a journey is as good as a carriage." - look to your classmates for help too
 - "While we stop to think, we often miss our opportunity." - sometimes you need to take a leap of faith
@@ -103,8 +108,8 @@ Mantras By James
 - "The bow too tensely strung is easily broken." - don't get too stressed out
 - All of these are from Plubius Syrus. (42 B.C.)
 
-Previous Years
---------------
+## Previous Years
+
 - [2022](https://github.com/ITPNYU/ICM-2022-Media/)
 - [2021](https://github.com/ITPNYU/ICM-2021-Media/)
 - [2020](https://github.com/ITPNYU/ICM-2020-Media/)
