@@ -5,8 +5,14 @@
 * [Why repeating words sound like music to your brain](https://www.theverge.com/2018/6/8/17443170/repeating-words-sound-to-song-auditory-illusion)
 * [Do-A-Deer](https://www.youtube.com/watch?v=drnBMAEA3AM)
 * [How to write a melody.](https://www.edmprod.com/ultimate-melody-guide/)
-* [The Science of Pop Music](https://www.dailymotion.com/video/x6fsdpg) | [Transcript](https://subsaga.com/bbc/documentaries/music/2017/the-secret-science-of-pop.html)
-* [A Complete Guide to Spotify Recommendation Algorithms](https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-a-complete-guide-2022#:~:text=%22We%20can%20understand%20songs%20to,recommend%20song%20Z%20to%20them.)
+* [Watch: Notes and Neurons: In Search of the Common Chorus](https://www.youtube.com/watch?v=S0kCUss0g9Q&t=0s)
+   * [Is music the same if you already know what to expect?](https://www.youtube.com/watch?v=S0kCUss0g9Q&t=1593s)
+   * [Pitch, rhythm and timbre.](https://www.youtube.com/watch?v=S0kCUss0g9Q&t=1940s)
+   * [Is rhythm different across cultures?](https://www.youtube.com/watch?v=S0kCUss0g9Q&t=2335s)
+   * [Comparing musical predictions across cultures](https://www.youtube.com/watch?v=S0kCUss0g9Q&t=2700s)
+   * [Bobby McFerrin demonstrates the power of the pentatonic](https://www.youtube.com/watch?v=S0kCUss0g9Q&t=3534s)
+   * [Is music apart of speech?](https://www.youtube.com/watch?v=S0kCUss0g9Q&t=3850s)
+* [The Complete Guide to Spotify's Algorithm](https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-a-complete-guide-2022)
 
 ### Reference
 * [Solfege Tutorial](https://www.jonbjorkmusic.com/tutorials) | [Video](https://www.youtube.com/watch?v=mEopSLv5oas)
