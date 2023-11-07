@@ -14,6 +14,10 @@
    * [The TikTok Algorithm ca. 2021](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html)
    * [What does your credit card company know about you?](https://www.nytimes.com/2009/05/17/magazine/17credit-t.html)
 
+#### User-Generated Data (Self-Reporting)
+   * [An Extremely Detailed Guide to an Extremely Detailed Map of New York City Neighborhoods](https://www.nytimes.com/interactive/2023/10/29/upshot/new-york-neighborhood-guide.html)
+   * [Automated AI Abuse Detection versus Self-Reporting](https://www.wsj.com/tech/instagram-facebook-teens-harassment-safety-5d991be1)
+
 #### Responsibility and Bias
    * [Side-by-side Images Expose a Glitch in Google’s Maps](https://qz.com/982709/google-maps-is-making-entire-communities-invisible-the-consequences-are-worrying/)
    * [WSJ: The Facebook Files](https://www.wsj.com/articles/the-facebook-files-11631713039)

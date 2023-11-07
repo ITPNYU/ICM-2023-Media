@@ -6,6 +6,7 @@
 * [Do-A-Deer](https://www.youtube.com/watch?v=drnBMAEA3AM)
 * [How to write a melody.](https://www.edmprod.com/ultimate-melody-guide/)
 * [The Science of Pop Music](https://www.dailymotion.com/video/x6fsdpg) | [Transcript](https://subsaga.com/bbc/documentaries/music/2017/the-secret-science-of-pop.html)
+* [A Complete Guide to Spotify Recommendation Algorithms](https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-a-complete-guide-2022#:~:text=%22We%20can%20understand%20songs%20to,recommend%20song%20Z%20to%20them.)
 
 ### Reference
 * [Solfege Tutorial](https://www.jonbjorkmusic.com/tutorials) | [Video](https://www.youtube.com/watch?v=mEopSLv5oas)
